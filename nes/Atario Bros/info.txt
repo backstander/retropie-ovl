@@ -1,0 +1,6 @@
+game_name = "Atario Bros"
+system = "nes"
+creator = "UDb23"
+rom_config = "Atario Bros (SMB1 Hack).zip.cfg"
+overlay_config = "Atario Bros (SMB1 Hack).cfg"
+overlay_image = "Atario Bros_udb-ovl.png"

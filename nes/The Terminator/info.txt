@@ -1,0 +1,6 @@
+game_name = "The Terminator"
+system = "nes"
+creator = "Ivan-NES"
+rom_config = "Terminator, The (USA, Europe).zip.cfg"
+overlay_config = "Terminator, The (USA, Europe).cfg"
+overlay_image = "terminator_ivan-nes-ovl.png"

@@ -1,0 +1,6 @@
+game_name = "Metroid"
+system = "nes"
+creator = "backstander"
+rom_config = "Metroid (USA).zip.cfg"
+overlay_config = "Metroid (USA).cfg"
+overlay_image = "metroid-nes-ovl.png"

@@ -1,0 +1,3 @@
+Resolutions 1920x1080
+
+NES bezel width (Lr-FCEUmm) = 298

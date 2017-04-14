@@ -1,4 +1,4 @@
-game_name = "Atario Bros"
+game_name = "Atario Bros (SMB1 Hack)"
 system = "nes"
 creator = "UDb23"
 rom_config = "Atario Bros (SMB1 Hack).zip.cfg"

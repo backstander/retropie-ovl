@@ -1,0 +1,6 @@
+game_name = "Metroid"
+system = "nes"
+creator = "backstander"
+rom_config = "Balloon Fight (USA).zip.cfg"
+overlay_config = "Balloon Fight (USA).cfg"
+overlay_image = "balloonfight-nes-ovl.png"

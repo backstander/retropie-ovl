@@ -1,4 +1,4 @@
-game_name = "Metroid"
+game_name = "Balloon Fight"
 system = "nes"
 creator = "backstander"
 rom_config = "Balloon Fight (USA).zip.cfg"

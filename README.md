@@ -8,7 +8,15 @@ Original logos, graphics and trademarks are property of their respective owners.
 # These Overlays are **NOT** for commercial use.
 
 ## How to install
-(arcade only, consoles coming soon)
+
+Using meleu's "work in progress" script
+
+```
+cd
+git clone --depth 1 https://github.com/meleu/rpie-art
+cd rpie-art
+./rpie-art.sh
+```
 
 ```
 git clone --depth 1 https://github.com/udb23/rpie-ovl.git

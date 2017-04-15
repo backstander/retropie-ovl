@@ -1,0 +1,6 @@
+game_name = "Castlevania"
+system = "nes"
+creator = "backstander"
+rom_config = "Castlevania (USA) (Rev A).zip.cfg"
+overlay_config = "Castlevania (USA) (Rev A).cfg"
+overlay_image = "castlevania_nes_ovl.png"

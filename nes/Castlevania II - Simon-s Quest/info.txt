@@ -1,6 +1,0 @@
-game_name = "Castlevania II - Simon's Quest"
-system = "nes"
-creator = "backstander"
-rom_config = "Castlevania II - Simon's Quest (USA).zip.cfg"
-overlay_config = "Castlevania II - Simon's Quest (USA).cfg"
-overlay_image = "castlevania_ii_nes_ovl.png"

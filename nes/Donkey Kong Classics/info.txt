@@ -1,0 +1,6 @@
+game_name = "Donkey Kong Classics"
+system = "nes"
+creator = "backstander"
+rom_config = "Donkey Kong Classics (USA, Europe).zip.cfg"
+overlay_config = "Donkey Kong Classics (USA, Europe).cfg"
+overlay_image = "donkey_kong_classics_nes_ovl.png"

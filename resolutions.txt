@@ -1,3 +1,6 @@
 Resolutions 1920x1080
 
-NES bezel width (Lr-FCEUmm) = 298
+NES bezel pixel widths:
+Lr-FCEUmm = 299
+Lr-Nestopia = 255
+Lr-QuickNES = 240

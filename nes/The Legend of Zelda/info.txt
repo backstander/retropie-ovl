@@ -1,0 +1,6 @@
+game_name = "The Legend of Zelda"
+system = "nes"
+creator = "backstander"
+rom_config = "Legend of Zelda, The (USA) (Rev A).zip.cfg"
+overlay_config = "Legend of Zelda, The (USA) (Rev A).cfg"
+overlay_image = "the-legend-of-zelda_nes_sso_robo_ovl.png"

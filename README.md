@@ -18,13 +18,7 @@ cd rpie-art
 ./rpie-art.sh
 ```
 
-```
-git clone --depth 1 https://github.com/udb23/rpie-ovl.git
-cd rpie-ovl
-bash rpie-ovl.sh
-```
-
-After launching `rpie-ovl.sh` you just have to follow the instructions in the dialog boxes.
+After launching `rpie-art.sh` you just have to follow the instructions in the dialog boxes.
 
 
 ## How to install manually

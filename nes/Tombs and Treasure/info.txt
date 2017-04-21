@@ -1,0 +1,6 @@
+game_name = "Tombs & Treasure"
+system = "nes"
+creator = "backstander"
+rom_config = "Tombs and Treasure (USA).zip.cfg"
+overlay_config = "Tombs and Treasure (USA).cfg"
+overlay_image = "tombs_and_treasure_nes_ovl.png"
